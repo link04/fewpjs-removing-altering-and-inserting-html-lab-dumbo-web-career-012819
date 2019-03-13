@@ -1,2 +1,2 @@
 document.getElementById('main').remove();
-let newHeader = document.getElementById('main').remove();
+let newHeader = document.getElementById('victory')e();
