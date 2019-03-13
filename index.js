@@ -1,1 +1,1 @@
-document.selectElementById('main').remove
+document.getElementById('main').remove
